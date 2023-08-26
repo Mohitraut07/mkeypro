@@ -109,7 +109,7 @@ function App() {
               </div>
             </div>
           </div>
-          <div className=" bg-cover -mt-7">
+          <div className=" bg-cover -mt-7 overflow-hidden">
             <div className="lg:mb-0 mb-0 md:max-w-screen-md lg:max-w-screen-lg xl:max-w-screen-xl mx-auto w-full px-5">
               <div className="flex flex-row items-center justify-start 2xl:pt-37 lg:pt-27.25 pt-14 lg:pb-20 pb-5 lg:justify-center ">
                 <div>
